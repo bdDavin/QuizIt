@@ -1,0 +1,6 @@
+framework module Pods_QuizIt {
+  umbrella header "Pods-QuizIt-umbrella.h"
+
+  export *
+  module * { export * }
+}
