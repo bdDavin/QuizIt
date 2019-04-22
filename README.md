@@ -1,7 +1,7 @@
 # QuizIt
 A quiz game for IOS. QuizIt The Quiz Maker
 
-An app where you can create quiz games and other can join an play all in realtime
+An app where you can create quiz games and others can join and play all in realtime
 
 To use the app you need to setup your own FireStore database
 
